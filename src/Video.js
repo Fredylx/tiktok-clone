@@ -24,7 +24,7 @@ function Video({ url, channel, description, song, likes, messages, shares }) {
         loop
         onClick={onVideoPress}
         ref={videoRef}
-        src={url}
+        src=https://www.tiktok.com/@houston.d_lifts/video/7141913904824831278
       ></video>
       <VideoFooter channel={channel} description={description} song={song} />
       <VideoSidebar likes={likes} messages={messages} shares={shares} />
